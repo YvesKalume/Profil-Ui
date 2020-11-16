@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Profil Ui</string>
+    <string name="maria_snow">Maria Snow</string>
+    <string name="san_francisco_ca">San Francisco, CA</string>
+    <string name="_20_years">20 years</string>
+    <string name="follow">Follow</string>
+    <string name="chat">Chat</string>
+    <string name="docks">Docks</string>
+    <string name="location">Location</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="friends">Friends</string>
+    <string name="_8_nov">8 Nov</string>
+    <string name="post_text">When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.</string>
+    <string name="_143">143</string>
+    <string name="_942">942</string>
+</resources>
